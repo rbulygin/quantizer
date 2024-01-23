@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+*.syso
+*.exe
+.build/
+build/
